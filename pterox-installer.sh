@@ -31,6 +31,7 @@ yarn
 
 # Step 9: Download the theme file
 wget https://github.com/Nashit-panel/Pterodactyl-theme/raw/main/Update.zip
+unzip Update.zip
 
 # Step 10: Add additional packages
 yarn add @types/js-cookie js-cookie
